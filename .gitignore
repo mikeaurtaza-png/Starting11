@@ -1,0 +1,13 @@
+# Local scratch/downloads
+work/
+outputs/
+
+# Large source image caches. The app uses headshots-display/.
+src/assets/headshots/
+src/assets/headshots-optimized/
+
+# OS/editor noise
+.DS_Store
+
+# Dependency folders if installed later
+node_modules/
