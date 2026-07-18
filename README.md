@@ -12,8 +12,17 @@ Open `index.html` in a browser.
 
 The presentation views are designed for StreamYard screen sharing.
 
+## Broadcast Design
+
+- Presentation views render on a fixed 16:9 canvas and scale to the available window.
+- The photographic turf is generated specifically for this project; yard numbers, player graphics, and the team mark remain separate editable layers.
+- Formation-aware positioning keeps all 11 player plaques readable on offense and defense.
+- Starting-player cutouts use optimized alpha WebP files while the original PNG sources remain available in `src/assets/headshots-display/`.
+- Entrance motion respects the operating system's reduced-motion setting.
+
 ## Notes
 
 - Player data is merged from the official 49ers roster and NFLVerse 2026 roster/headshot data.
-- High-quality local cutouts live in `src/assets/headshots-display/`.
+- Optimized presentation cutouts live in `src/assets/headshots-webp/`.
+- Original high-resolution cutouts live in `src/assets/headshots-display/`.
 - Full-resolution source caches are intentionally ignored from git.

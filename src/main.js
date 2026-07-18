@@ -1,6 +1,6 @@
 const offensePositions = ['QB', 'RB', 'WR (X)', 'WR (Z)', 'Slot WR', 'TE', 'LT', 'LG', 'C', 'RG', 'RT'];
 const defensePositions = ['LDE', 'DT 1', 'DT 2', 'RDE', 'SAM', 'MIKE', 'WILL', 'CB 1', 'CB 2', 'FS', 'SS'];
-const dataVersion = `${window.ROSTER_DATA_VERSION || 'embedded-v1'}-field-numbers-v11`;
+const dataVersion = `${window.ROSTER_DATA_VERSION || 'embedded-v1'}-broadcast-v12`;
 
 const defaultPlayers = (window.ROSTER_DATA || []).map(player => ({ ...player }));
 
@@ -20,8 +20,14 @@ const defaultLineups = {
 };
 
 const formation = {
-  offense: { QB: [50, 60], RB: [50, 82], 'WR (X)': [12, 61], 'WR (Z)': [88, 62], 'Slot WR': [72, 77], TE: [89, 39], LT: [24, 34], LG: [37, 34], C: [50, 34], RG: [63, 34], RT: [76, 34] },
-  defense: { LDE: [24, 35], 'DT 1': [42, 33], 'DT 2': [58, 33], RDE: [76, 35], SAM: [31, 58], MIKE: [50, 61], WILL: [69, 58], 'CB 1': [12, 70], 'CB 2': [88, 70], FS: [38, 86], SS: [62, 86] }
+  offense: {
+    LT: [25, 26], LG: [37.5, 26], C: [50, 26], RG: [62.5, 26], RT: [75, 26], TE: [88, 28],
+    'WR (X)': [10, 54], QB: [50, 53], 'WR (Z)': [90, 54], 'Slot WR': [73, 79], RB: [50, 80]
+  },
+  defense: {
+    LDE: [23, 26], 'DT 1': [41, 26], 'DT 2': [59, 26], RDE: [77, 26],
+    SAM: [30, 53], MIKE: [50, 53], WILL: [70, 53], 'CB 1': [10, 66], 'CB 2': [90, 66], FS: [37, 81], SS: [63, 81]
+  }
 };
 
 let state = loadState();
@@ -65,7 +71,7 @@ function cardHtml(player, slot, hidden) {
   if (!player || hidden) return '';
   const initials = player.name.split(' ').map(part => part[0]).join('').slice(0, 2);
   const photo = player.photo ? escapeHtml(player.photo) : '';
-  const portrait = `<span>${escapeHtml(initials)}</span>${photo ? `<img class="portrait-main" src="${photo}" alt="" onerror="this.remove()">` : ''}`;
+  const portrait = `<span>${escapeHtml(initials)}</span>${photo ? `<img class="portrait-main" src="${photo}" alt="${escapeHtml(player.name)}" loading="eager" decoding="async" onerror="this.remove()">` : ''}`;
   return `<article class="player-card">
     <div class="portrait">${portrait}</div>
     <div class="card-copy">
@@ -80,31 +86,31 @@ function cardHtml(player, slot, hidden) {
 function fieldHtml(side) {
   const lineup = state.lineups[side];
   const slots = side === 'offense' ? offensePositions : defensePositions;
-  const eyebrow = side === 'offense' ? 'PROJECTED OFFENSE' : 'PROJECTED DEFENSE';
+  const sideLabel = side === 'offense' ? 'Offense' : 'Defense';
   const yardNumbers = [['30', 10], ['40', 30], ['50', 50], ['40', 70], ['30', 90]]
     .map(([number, x]) => `<span class="yard-number" style="left:${x}%"><b>${number[0]}</b><b>${number[1]}</b></span>`)
     .join('');
-  const title = lineup.title
+  const lineupLabel = lineup.title
     .replace(/^San Francisco 49ers\s+/i, '')
     .replace(/^Projected\s+/i, '')
-    .replace(/^Starting\s+/i, '');
+    .replace(/^Starting\s+/i, '')
+    .trim() || sideLabel;
   const cards = slots.map(slot => {
     const [x, y] = formation[side][slot];
     const offset = lineup.offsets[slot] || { x: 0, y: 0 };
     const player = playerById(lineup.slots[slot]);
-    return `<div class="card-position" style="left:calc(${x}% + ${offset.x || 0}px);top:calc(${y}% + ${offset.y || 0}px);z-index:${Math.round(20 + y)}">${cardHtml(player, slot, lineup.hidden[slot])}</div>`;
+    return `<div class="card-position slot-${slot.toLowerCase().replace(/[^a-z0-9]+/g, '-')}" style="--x:${x};--y:${y};--enter-index:${slots.indexOf(slot)};left:calc(${x}% + ${offset.x || 0}px);top:calc(${y}% + ${offset.y || 0}px);z-index:${Math.round(20 + y)}">${cardHtml(player, slot, lineup.hidden[slot])}</div>`;
   }).join('');
-  return `<section class="presentation" id="presentation">
+  return `<section class="presentation ${side}" id="presentation" aria-label="San Francisco 49ers projected starting ${sideLabel.toLowerCase()}">
     ${fixedView === 'offense' || fixedView === 'defense' ? '<a class="presentation-back" href="index.html">Back to Studio</a>' : ''}
-    <div class="stadium"></div><div class="light left"></div><div class="light right"></div>
+    <div class="stadium"></div>
     <div class="broadcast-bar">
-      <h1>San Francisco 49ers <b>${escapeHtml(title)}</b></h1>
+      <div class="team-title"><span>San Francisco</span><h1>49ers ${escapeHtml(lineupLabel)}</h1></div>
       <img class="sf-mark" src="src/assets/49ers-logo.svg" alt="49ers">
-      <div class="broadcast-title"><span>${eyebrow}</span><h2>Projected Starting Roster</h2></div>
+      <div class="broadcast-title"><span>Projected</span><h2>Starting 11</h2></div>
     </div>
     <div class="field">
-      <div class="fog-layer"></div>
-      <div class="type-safe-zone"></div>
+      <div class="field-lighting"></div>
       <div class="yard-lines">${Array.from({ length: 11 }, (_, i) => `<i style="left:${i * 10}%"></i>`).join('')}</div>
       <div class="numbers top">${yardNumbers}</div>
       <div class="numbers bottom">${yardNumbers}</div>
@@ -151,6 +157,8 @@ function producerHtml() {
 
 function render() {
   const view = fixedView === 'offense' || fixedView === 'defense' ? fixedView : null;
+  document.body.classList.toggle('presentation-mode', Boolean(view));
+  document.body.classList.toggle('studio-mode', !view);
   document.getElementById('root').innerHTML = view ? fieldHtml(view) : producerHtml();
   if (!view) bindProducer();
 }

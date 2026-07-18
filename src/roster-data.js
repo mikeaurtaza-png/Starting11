@@ -10,7 +10,7 @@ window.ROSTER_DATA = [
     "exp": "6",
     "college": "Tecnol\u00f3gico de Monterrey",
     "status": "Active",
-    "photo": "src/assets/headshots-display/isaac-alarcon.png",
+    "photo": "src/assets/headshots-webp/isaac-alarcon.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -31,7 +31,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tf80dmb1inreek7ijguw",
     "photoNflverseCached": "src/assets/headshots-optimized/isaac-alarcon.png",
     "photoOriginal": "src/assets/headshots/isaac-alarcon.jpg",
-    "photoDisplay": "src/assets/headshots-display/isaac-alarcon.png"
+    "photoDisplay": "src/assets/headshots-webp/isaac-alarcon.webp"
   },
   {
     "id": "evan-anderson",
@@ -44,7 +44,7 @@ window.ROSTER_DATA = [
     "exp": "2",
     "college": "Florida Atlantic",
     "status": "Active",
-    "photo": "src/assets/headshots-display/evan-anderson.png",
+    "photo": "src/assets/headshots-webp/evan-anderson.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -65,7 +65,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/brvzpgd97dixgsux1pse",
     "photoNflverseCached": "src/assets/headshots-optimized/evan-anderson.png",
     "photoOriginal": "src/assets/headshots/evan-anderson.jpg",
-    "photoDisplay": "src/assets/headshots-display/evan-anderson.png"
+    "photoDisplay": "src/assets/headshots-webp/evan-anderson.webp"
   },
   {
     "id": "eli-apple",
@@ -78,7 +78,7 @@ window.ROSTER_DATA = [
     "exp": "10",
     "college": "Ohio State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/eli-apple.png",
+    "photo": "src/assets/headshots-webp/eli-apple.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -99,7 +99,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/szrv0msliekcbdfulpzb",
     "photoNflverseCached": "src/assets/headshots-optimized/eli-apple.png",
     "photoOriginal": "src/assets/headshots/eli-apple.jpg",
-    "photoDisplay": "src/assets/headshots-display/eli-apple.png"
+    "photoDisplay": "src/assets/headshots-webp/eli-apple.webp"
   },
   {
     "id": "junior-bergen",
@@ -112,7 +112,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Montana",
     "status": "Active",
-    "photo": "src/assets/headshots-display/junior-bergen.png",
+    "photo": "src/assets/headshots-webp/junior-bergen.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -133,7 +133,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/dlii21zjxadzebyoguh5",
     "photoNflverseCached": "src/assets/headshots-optimized/junior-bergen.png",
     "photoOriginal": "src/assets/headshots/junior-bergen.jpg",
-    "photoDisplay": "src/assets/headshots-display/junior-bergen.png"
+    "photoDisplay": "src/assets/headshots-webp/junior-bergen.webp"
   },
   {
     "id": "tatum-bethune",
@@ -146,7 +146,7 @@ window.ROSTER_DATA = [
     "exp": "2",
     "college": "Florida State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/tatum-bethune.png",
+    "photo": "src/assets/headshots-webp/tatum-bethune.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -167,7 +167,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/hbmwbevay9amntpkvfbt",
     "photoNflverseCached": "src/assets/headshots-optimized/tatum-bethune.png",
     "photoOriginal": "src/assets/headshots/tatum-bethune.jpg",
-    "photoDisplay": "src/assets/headshots-display/tatum-bethune.png"
+    "photoDisplay": "src/assets/headshots-webp/tatum-bethune.webp"
   },
   {
     "id": "kaelon-black",
@@ -180,7 +180,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Indiana",
     "status": "Active",
-    "photo": "src/assets/headshots-display/kaelon-black.png",
+    "photo": "src/assets/headshots-webp/kaelon-black.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -201,7 +201,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/kaelon-black.png",
     "photoOriginal": "src/assets/headshots/kaelon-black.jpg",
-    "photoDisplay": "src/assets/headshots-display/kaelon-black.png"
+    "photoDisplay": "src/assets/headshots-webp/kaelon-black.webp"
   },
   {
     "id": "nick-bosa",
@@ -214,7 +214,7 @@ window.ROSTER_DATA = [
     "exp": "7",
     "college": "Ohio State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/nick-bosa.png",
+    "photo": "src/assets/headshots-webp/nick-bosa.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -235,7 +235,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/d41bo71xbojqb4picswi",
     "photoNflverseCached": "src/assets/headshots-optimized/nick-bosa.png",
     "photoOriginal": "src/assets/headshots/nick-bosa.jpg",
-    "photoDisplay": "src/assets/headshots-display/nick-bosa.png"
+    "photoDisplay": "src/assets/headshots-webp/nick-bosa.webp"
   },
   {
     "id": "william-bradley-king",
@@ -248,7 +248,7 @@ window.ROSTER_DATA = [
     "exp": "5",
     "college": "Baylor",
     "status": "Active",
-    "photo": "src/assets/headshots-display/william-bradley-king.png",
+    "photo": "src/assets/headshots-webp/william-bradley-king.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -269,7 +269,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/twnmwxwnx4tk8bwvhmdz",
     "photoNflverseCached": "src/assets/headshots-optimized/william-bradley-king.png",
     "photoOriginal": "src/assets/headshots/william-bradley-king.jpg",
-    "photoDisplay": "src/assets/headshots-display/william-bradley-king.png"
+    "photoDisplay": "src/assets/headshots-webp/william-bradley-king.webp"
   },
   {
     "id": "jake-brendel",
@@ -282,7 +282,7 @@ window.ROSTER_DATA = [
     "exp": "10",
     "college": "UCLA",
     "status": "Active",
-    "photo": "src/assets/headshots-display/jake-brendel.png",
+    "photo": "src/assets/headshots-webp/jake-brendel.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -303,7 +303,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/fw1g79qwk1gbhmdjvhfv",
     "photoNflverseCached": "src/assets/headshots-optimized/jake-brendel.png",
     "photoOriginal": "src/assets/headshots/jake-brendel.jpg",
-    "photoDisplay": "src/assets/headshots-display/jake-brendel.png"
+    "photoDisplay": "src/assets/headshots-webp/jake-brendel.webp"
   },
   {
     "id": "ji-ayir-brown",
@@ -316,7 +316,7 @@ window.ROSTER_DATA = [
     "exp": "3",
     "college": "Penn State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/ji-ayir-brown.png",
+    "photo": "src/assets/headshots-webp/ji-ayir-brown.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -337,7 +337,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/gmgewszcsvxdb63dmqby",
     "photoNflverseCached": "src/assets/headshots-optimized/ji-ayir-brown.png",
     "photoOriginal": "src/assets/headshots/ji-ayir-brown.jpg",
-    "photoDisplay": "src/assets/headshots-display/ji-ayir-brown.png"
+    "photoDisplay": "src/assets/headshots-webp/ji-ayir-brown.webp"
   },
   {
     "id": "derrick-canteen",
@@ -350,7 +350,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Cincinnati",
     "status": "Active",
-    "photo": "src/assets/headshots-display/derrick-canteen.png",
+    "photo": "src/assets/headshots-webp/derrick-canteen.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -371,7 +371,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s2tikaexxnje11kof81u",
     "photoNflverseCached": "src/assets/headshots-optimized/derrick-canteen.png",
     "photoOriginal": "src/assets/headshots/derrick-canteen.jpg",
-    "photoDisplay": "src/assets/headshots-display/derrick-canteen.png"
+    "photoDisplay": "src/assets/headshots-webp/derrick-canteen.webp"
   },
   {
     "id": "connor-colby",
@@ -384,7 +384,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Iowa",
     "status": "Active",
-    "photo": "src/assets/headshots-display/connor-colby.png",
+    "photo": "src/assets/headshots-webp/connor-colby.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -405,7 +405,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/b0b2krvxbpylwerralyx",
     "photoNflverseCached": "src/assets/headshots-optimized/connor-colby.png",
     "photoOriginal": "src/assets/headshots/connor-colby.jpg",
-    "photoDisplay": "src/assets/headshots-display/connor-colby.png"
+    "photoDisplay": "src/assets/headshots-webp/connor-colby.webp"
   },
   {
     "id": "alfred-collins",
@@ -418,7 +418,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Texas",
     "status": "Active",
-    "photo": "src/assets/headshots-display/alfred-collins.png",
+    "photo": "src/assets/headshots-webp/alfred-collins.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -439,7 +439,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/rjziol6cqynoyc0w0qfh",
     "photoNflverseCached": "src/assets/headshots-optimized/alfred-collins.png",
     "photoOriginal": "src/assets/headshots/alfred-collins.jpg",
-    "photoDisplay": "src/assets/headshots-display/alfred-collins.png"
+    "photoDisplay": "src/assets/headshots-webp/alfred-collins.webp"
   },
   {
     "id": "jacob-cowing",
@@ -452,7 +452,7 @@ window.ROSTER_DATA = [
     "exp": "2",
     "college": "Arizona",
     "status": "Active",
-    "photo": "src/assets/headshots-display/jacob-cowing.png",
+    "photo": "src/assets/headshots-webp/jacob-cowing.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -473,7 +473,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nkyvxf2mewlwkozdszcg",
     "photoNflverseCached": "src/assets/headshots-optimized/jacob-cowing.png",
     "photoOriginal": "src/assets/headshots/jacob-cowing.jpg",
-    "photoDisplay": "src/assets/headshots-display/jacob-cowing.png"
+    "photoDisplay": "src/assets/headshots-webp/jacob-cowing.webp"
   },
   {
     "id": "enrique-cruz",
@@ -486,7 +486,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Kansas",
     "status": "Active",
-    "photo": "src/assets/headshots-display/enrique-cruz.png",
+    "photo": "src/assets/headshots-webp/enrique-cruz.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -507,7 +507,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/enrique-cruz.png",
     "photoOriginal": "src/assets/headshots/enrique-cruz.jpg",
-    "photoDisplay": "src/assets/headshots-display/enrique-cruz.png"
+    "photoDisplay": "src/assets/headshots-webp/enrique-cruz.webp"
   },
   {
     "id": "ashtyn-davis",
@@ -520,7 +520,7 @@ window.ROSTER_DATA = [
     "exp": "6",
     "college": "California",
     "status": "Active",
-    "photo": "src/assets/headshots-display/ashtyn-davis.png",
+    "photo": "src/assets/headshots-webp/ashtyn-davis.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -541,7 +541,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/f1yyvajikoqdnqunml6i",
     "photoNflverseCached": "src/assets/headshots-optimized/ashtyn-davis.png",
     "photoOriginal": "src/assets/headshots/ashtyn-davis.jpg",
-    "photoDisplay": "src/assets/headshots-display/ashtyn-davis.png"
+    "photoDisplay": "src/assets/headshots-webp/ashtyn-davis.webp"
   },
   {
     "id": "khalil-dinkins",
@@ -554,7 +554,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Penn State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/khalil-dinkins.png",
+    "photo": "src/assets/headshots-webp/khalil-dinkins.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -575,7 +575,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/khalil-dinkins.png",
     "photoOriginal": "src/assets/headshots/khalil-dinkins.jpg",
-    "photoDisplay": "src/assets/headshots-display/khalil-dinkins.png"
+    "photoDisplay": "src/assets/headshots-webp/khalil-dinkins.webp"
   },
   {
     "id": "colton-dowell",
@@ -588,7 +588,7 @@ window.ROSTER_DATA = [
     "exp": "3",
     "college": "Tennessee-Martin",
     "status": "Active",
-    "photo": "src/assets/headshots-display/colton-dowell.png",
+    "photo": "src/assets/headshots-webp/colton-dowell.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -609,7 +609,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/asnykoet55r5qhhewijc",
     "photoNflverseCached": "src/assets/headshots-optimized/colton-dowell.png",
     "photoOriginal": "src/assets/headshots/colton-dowell.jpg",
-    "photoDisplay": "src/assets/headshots-display/colton-dowell.png"
+    "photoDisplay": "src/assets/headshots-webp/colton-dowell.webp"
   },
   {
     "id": "jaden-dugger",
@@ -622,7 +622,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Louisiana",
     "status": "Active",
-    "photo": "src/assets/headshots-display/jaden-dugger.png",
+    "photo": "src/assets/headshots-webp/jaden-dugger.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -643,7 +643,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/jaden-dugger.png",
     "photoOriginal": "src/assets/headshots/jaden-dugger.jpg",
-    "photoDisplay": "src/assets/headshots-display/jaden-dugger.png"
+    "photoDisplay": "src/assets/headshots-webp/jaden-dugger.webp"
   },
   {
     "id": "bryson-eason",
@@ -656,7 +656,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Tennessee",
     "status": "Active",
-    "photo": "src/assets/headshots-display/bryson-eason.png",
+    "photo": "src/assets/headshots-webp/bryson-eason.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -677,7 +677,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/bryson-eason.png",
     "photoOriginal": "src/assets/headshots/bryson-eason.jpg",
-    "photoDisplay": "src/assets/headshots-display/bryson-eason.png"
+    "photoDisplay": "src/assets/headshots-webp/bryson-eason.webp"
   },
   {
     "id": "mike-evans",
@@ -690,7 +690,7 @@ window.ROSTER_DATA = [
     "exp": "12",
     "college": "Texas A&M",
     "status": "Active",
-    "photo": "src/assets/headshots-display/mike-evans.png",
+    "photo": "src/assets/headshots-webp/mike-evans.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -711,7 +711,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yaxorbdsvk1ucfuiyrkj",
     "photoNflverseCached": "src/assets/headshots-optimized/mike-evans.png",
     "photoOriginal": "src/assets/headshots/mike-evans.jpg",
-    "photoDisplay": "src/assets/headshots-display/mike-evans.png"
+    "photoDisplay": "src/assets/headshots-webp/mike-evans.webp"
   },
   {
     "id": "andrew-farmer-ii",
@@ -724,7 +724,7 @@ window.ROSTER_DATA = [
     "exp": "3",
     "college": "Lane College",
     "status": "Active",
-    "photo": "src/assets/headshots-display/andrew-farmer-ii.png",
+    "photo": "src/assets/headshots-webp/andrew-farmer-ii.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -745,7 +745,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/yhtbla5k72ipuqg7kfne",
     "photoNflverseCached": "src/assets/headshots-optimized/andrew-farmer-ii.png",
     "photoOriginal": "src/assets/headshots/andrew-farmer-ii.jpg",
-    "photoDisplay": "src/assets/headshots-display/andrew-farmer-ii.png"
+    "photoDisplay": "src/assets/headshots-webp/andrew-farmer-ii.webp"
   },
   {
     "id": "luke-farrell",
@@ -758,7 +758,7 @@ window.ROSTER_DATA = [
     "exp": "5",
     "college": "Ohio State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/luke-farrell.png",
+    "photo": "src/assets/headshots-webp/luke-farrell.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -779,7 +779,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/sccmpo8xbzdbjasmwcfj",
     "photoNflverseCached": "src/assets/headshots-optimized/luke-farrell.png",
     "photoOriginal": "src/assets/headshots/luke-farrell.jpg",
-    "photoDisplay": "src/assets/headshots-display/luke-farrell.png"
+    "photoDisplay": "src/assets/headshots-webp/luke-farrell.webp"
   },
   {
     "id": "clelin-ferrell",
@@ -806,7 +806,7 @@ window.ROSTER_DATA = [
     "exp": "7",
     "college": "Nebraska",
     "status": "Active",
-    "photo": "src/assets/headshots-display/luke-gifford.png",
+    "photo": "src/assets/headshots-webp/luke-gifford.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -827,7 +827,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zuskjpnniq2xwnao6tuk",
     "photoNflverseCached": "src/assets/headshots-optimized/luke-gifford.png",
     "photoOriginal": "src/assets/headshots/luke-gifford.jpg",
-    "photoDisplay": "src/assets/headshots-display/luke-gifford.png"
+    "photoDisplay": "src/assets/headshots-webp/luke-gifford.webp"
   },
   {
     "id": "kevin-givens",
@@ -840,13 +840,13 @@ window.ROSTER_DATA = [
     "exp": "7",
     "college": "Penn State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/kevin-givens.png",
+    "photo": "src/assets/headshots-webp/kevin-givens.webp",
     "source": "49ers.com",
     "photoRemote": "https://static.clubs.nfl.com/image/upload/t_thumb_squared_3x/f_png/49ers/qpuu9foybzzyfoe3m9hy.png",
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/kevin-givens.png",
     "photoOriginal": "src/assets/headshots/kevin-givens.png",
-    "photoDisplay": "src/assets/headshots-display/kevin-givens.png"
+    "photoDisplay": "src/assets/headshots-webp/kevin-givens.webp"
   },
   {
     "id": "jalen-graham",
@@ -859,7 +859,7 @@ window.ROSTER_DATA = [
     "exp": "3",
     "college": "Purdue",
     "status": "Active",
-    "photo": "src/assets/headshots-display/jalen-graham.png",
+    "photo": "src/assets/headshots-webp/jalen-graham.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -880,7 +880,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/oxlmlst1qeq1wi0hq0j6",
     "photoNflverseCached": "src/assets/headshots-optimized/jalen-graham.png",
     "photoOriginal": "src/assets/headshots/jalen-graham.jpg",
-    "photoDisplay": "src/assets/headshots-display/jalen-graham.png"
+    "photoDisplay": "src/assets/headshots-webp/jalen-graham.webp"
   },
   {
     "id": "renardo-green",
@@ -893,7 +893,7 @@ window.ROSTER_DATA = [
     "exp": "2",
     "college": "Florida State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/renardo-green.png",
+    "photo": "src/assets/headshots-webp/renardo-green.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -914,7 +914,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/reoqk5hmsjugiaed55fk",
     "photoNflverseCached": "src/assets/headshots-optimized/renardo-green.png",
     "photoOriginal": "src/assets/headshots/renardo-green.jpg",
-    "photoDisplay": "src/assets/headshots-display/renardo-green.png"
+    "photoDisplay": "src/assets/headshots-webp/renardo-green.webp"
   },
   {
     "id": "dre-greenlaw",
@@ -927,7 +927,7 @@ window.ROSTER_DATA = [
     "exp": "7",
     "college": "Arkansas",
     "status": "Active",
-    "photo": "src/assets/headshots-display/dre-greenlaw.png",
+    "photo": "src/assets/headshots-webp/dre-greenlaw.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -948,7 +948,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/twmm0to7fptnq71n75iz",
     "photoNflverseCached": "src/assets/headshots-optimized/dre-greenlaw.png",
     "photoOriginal": "src/assets/headshots/dre-greenlaw.jpg",
-    "photoDisplay": "src/assets/headshots-display/dre-greenlaw.png"
+    "photoDisplay": "src/assets/headshots-webp/dre-greenlaw.webp"
   },
   {
     "id": "wesley-grimes",
@@ -961,7 +961,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "N.C. State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/wesley-grimes.png",
+    "photo": "src/assets/headshots-webp/wesley-grimes.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -982,7 +982,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/wesley-grimes.png",
     "photoOriginal": "src/assets/headshots/wesley-grimes.jpg",
-    "photoDisplay": "src/assets/headshots-display/wesley-grimes.png"
+    "photoDisplay": "src/assets/headshots-webp/wesley-grimes.webp"
   },
   {
     "id": "isaac-guerendo",
@@ -995,7 +995,7 @@ window.ROSTER_DATA = [
     "exp": "2",
     "college": "Louisville",
     "status": "Active",
-    "photo": "src/assets/headshots-display/isaac-guerendo.png",
+    "photo": "src/assets/headshots-webp/isaac-guerendo.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1016,7 +1016,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/lr1qp5tsa5xshzt02urm",
     "photoNflverseCached": "src/assets/headshots-optimized/isaac-guerendo.png",
     "photoOriginal": "src/assets/headshots/isaac-guerendo.jpg",
-    "photoDisplay": "src/assets/headshots-display/isaac-guerendo.png"
+    "photoDisplay": "src/assets/headshots-webp/isaac-guerendo.webp"
   },
   {
     "id": "gracen-halton",
@@ -1029,7 +1029,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Oklahoma",
     "status": "Active",
-    "photo": "src/assets/headshots-display/gracen-halton.png",
+    "photo": "src/assets/headshots-webp/gracen-halton.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1050,7 +1050,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/gracen-halton.png",
     "photoOriginal": "src/assets/headshots/gracen-halton.jpg",
-    "photoDisplay": "src/assets/headshots-display/gracen-halton.png"
+    "photoDisplay": "src/assets/headshots-webp/gracen-halton.webp"
   },
   {
     "id": "romello-height",
@@ -1063,7 +1063,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Texas Tech",
     "status": "Active",
-    "photo": "src/assets/headshots-display/romello-height.png",
+    "photo": "src/assets/headshots-webp/romello-height.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1084,7 +1084,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/romello-height.png",
     "photoOriginal": "src/assets/headshots/romello-height.jpg",
-    "photoDisplay": "src/assets/headshots-display/romello-height.png"
+    "photoDisplay": "src/assets/headshots-webp/romello-height.webp"
   },
   {
     "id": "nate-hobbs",
@@ -1097,7 +1097,7 @@ window.ROSTER_DATA = [
     "exp": "5",
     "college": "Illinois",
     "status": "Active",
-    "photo": "src/assets/headshots-display/nate-hobbs.png",
+    "photo": "src/assets/headshots-webp/nate-hobbs.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1118,7 +1118,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/tqngf0urgkjrrqtx0kzl",
     "photoNflverseCached": "src/assets/headshots-optimized/nate-hobbs.png",
     "photoOriginal": "src/assets/headshots/nate-hobbs.jpg",
-    "photoDisplay": "src/assets/headshots-display/nate-hobbs.png"
+    "photoDisplay": "src/assets/headshots-webp/nate-hobbs.webp"
   },
   {
     "id": "jordan-james",
@@ -1131,7 +1131,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Oregon",
     "status": "Active",
-    "photo": "src/assets/headshots-display/jordan-james.png",
+    "photo": "src/assets/headshots-webp/jordan-james.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1152,7 +1152,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/vhkfigionbm4xwjcbfzg",
     "photoNflverseCached": "src/assets/headshots-optimized/jordan-james.png",
     "photoOriginal": "src/assets/headshots/jordan-james.jpg",
-    "photoDisplay": "src/assets/headshots-display/jordan-james.png"
+    "photoDisplay": "src/assets/headshots-webp/jordan-james.webp"
   },
   {
     "id": "jack-jones",
@@ -1165,7 +1165,7 @@ window.ROSTER_DATA = [
     "exp": "4",
     "college": "Arizona State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/jack-jones.png",
+    "photo": "src/assets/headshots-webp/jack-jones.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1186,7 +1186,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/du4dbnopryqdeffnwcwh",
     "photoNflverseCached": "src/assets/headshots-optimized/jack-jones.png",
     "photoOriginal": "src/assets/headshots/jack-jones.jpg",
-    "photoDisplay": "src/assets/headshots-display/jack-jones.png"
+    "photoDisplay": "src/assets/headshots-webp/jack-jones.webp"
   },
   {
     "id": "mac-jones",
@@ -1199,7 +1199,7 @@ window.ROSTER_DATA = [
     "exp": "5",
     "college": "Alabama",
     "status": "Active",
-    "photo": "src/assets/headshots-display/mac-jones.png",
+    "photo": "src/assets/headshots-webp/mac-jones.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1220,7 +1220,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/v5sg1z9qvdpjeapblndz",
     "photoNflverseCached": "src/assets/headshots-optimized/mac-jones.png",
     "photoOriginal": "src/assets/headshots/mac-jones.jpg",
-    "photoDisplay": "src/assets/headshots-display/mac-jones.png"
+    "photoDisplay": "src/assets/headshots-webp/mac-jones.webp"
   },
   {
     "id": "robert-jones",
@@ -1233,7 +1233,7 @@ window.ROSTER_DATA = [
     "exp": "5",
     "college": "Middle Tennessee State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/robert-jones.png",
+    "photo": "src/assets/headshots-webp/robert-jones.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1254,7 +1254,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ghwina6zfdtlqzs3x7pu",
     "photoNflverseCached": "src/assets/headshots-optimized/robert-jones.png",
     "photoOriginal": "src/assets/headshots/robert-jones.jpg",
-    "photoDisplay": "src/assets/headshots-display/robert-jones.png"
+    "photoDisplay": "src/assets/headshots-webp/robert-jones.webp"
   },
   {
     "id": "kyle-juszczyk",
@@ -1267,7 +1267,7 @@ window.ROSTER_DATA = [
     "exp": "13",
     "college": "Harvard",
     "status": "Active",
-    "photo": "src/assets/headshots-display/kyle-juszczyk.png",
+    "photo": "src/assets/headshots-webp/kyle-juszczyk.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1288,7 +1288,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qflumv1aag7yw9mgwpga",
     "photoNflverseCached": "src/assets/headshots-optimized/kyle-juszczyk.png",
     "photoOriginal": "src/assets/headshots/kyle-juszczyk.jpg",
-    "photoDisplay": "src/assets/headshots-display/kyle-juszczyk.png"
+    "photoDisplay": "src/assets/headshots-webp/kyle-juszczyk.webp"
   },
   {
     "id": "mikail-kamara",
@@ -1301,7 +1301,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Indiana",
     "status": "Active",
-    "photo": "src/assets/headshots-display/mikail-kamara.png",
+    "photo": "src/assets/headshots-webp/mikail-kamara.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1322,7 +1322,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/mikail-kamara.png",
     "photoOriginal": "src/assets/headshots/mikail-kamara.jpg",
-    "photoDisplay": "src/assets/headshots-display/mikail-kamara.png"
+    "photoDisplay": "src/assets/headshots-webp/mikail-kamara.webp"
   },
   {
     "id": "christian-kirk",
@@ -1335,7 +1335,7 @@ window.ROSTER_DATA = [
     "exp": "8",
     "college": "Texas A&M",
     "status": "Active",
-    "photo": "src/assets/headshots-display/christian-kirk.png",
+    "photo": "src/assets/headshots-webp/christian-kirk.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1356,7 +1356,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bugikrmfz5k4jvyaogza",
     "photoNflverseCached": "src/assets/headshots-optimized/christian-kirk.png",
     "photoOriginal": "src/assets/headshots/christian-kirk.jpg",
-    "photoDisplay": "src/assets/headshots-display/christian-kirk.png"
+    "photoDisplay": "src/assets/headshots-webp/christian-kirk.webp"
   },
   {
     "id": "george-kittle",
@@ -1369,7 +1369,7 @@ window.ROSTER_DATA = [
     "exp": "9",
     "college": "Iowa",
     "status": "Active",
-    "photo": "src/assets/headshots-display/george-kittle.png",
+    "photo": "src/assets/headshots-webp/george-kittle.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1390,7 +1390,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ztz3xqjaqgok9m4nylgs",
     "photoNflverseCached": "src/assets/headshots-optimized/george-kittle.png",
     "photoOriginal": "src/assets/headshots/george-kittle.jpg",
-    "photoDisplay": "src/assets/headshots-display/george-kittle.png"
+    "photoDisplay": "src/assets/headshots-webp/george-kittle.webp"
   },
   {
     "id": "deommodore-lenoir",
@@ -1403,7 +1403,7 @@ window.ROSTER_DATA = [
     "exp": "5",
     "college": "Oregon",
     "status": "Active",
-    "photo": "src/assets/headshots-display/deommodore-lenoir.png",
+    "photo": "src/assets/headshots-webp/deommodore-lenoir.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1424,7 +1424,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ypghnprlnzwmxjcrbpk7",
     "photoNflverseCached": "src/assets/headshots-optimized/deommodore-lenoir.png",
     "photoOriginal": "src/assets/headshots/deommodore-lenoir.jpg",
-    "photoDisplay": "src/assets/headshots-display/deommodore-lenoir.png"
+    "photoDisplay": "src/assets/headshots-webp/deommodore-lenoir.webp"
   },
   {
     "id": "vederian-lowe",
@@ -1437,7 +1437,7 @@ window.ROSTER_DATA = [
     "exp": "4",
     "college": "Illinois",
     "status": "Active",
-    "photo": "src/assets/headshots-display/vederian-lowe.png",
+    "photo": "src/assets/headshots-webp/vederian-lowe.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1458,7 +1458,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/a72w3jazmnecd5nepevf",
     "photoNflverseCached": "src/assets/headshots-optimized/vederian-lowe.png",
     "photoOriginal": "src/assets/headshots/vederian-lowe.jpg",
-    "photoDisplay": "src/assets/headshots-display/vederian-lowe.png"
+    "photoDisplay": "src/assets/headshots-webp/vederian-lowe.webp"
   },
   {
     "id": "darrell-luter-jr",
@@ -1471,7 +1471,7 @@ window.ROSTER_DATA = [
     "exp": "3",
     "college": "South Alabama",
     "status": "Active",
-    "photo": "src/assets/headshots-display/darrell-luter-jr.png",
+    "photo": "src/assets/headshots-webp/darrell-luter-jr.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1492,7 +1492,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/c7i5bj3inrno1uvjxwv4",
     "photoNflverseCached": "src/assets/headshots-optimized/darrell-luter-jr.png",
     "photoOriginal": "src/assets/headshots/darrell-luter-jr.jpg",
-    "photoDisplay": "src/assets/headshots-display/darrell-luter-jr.png"
+    "photoDisplay": "src/assets/headshots-webp/darrell-luter-jr.webp"
   },
   {
     "id": "nick-martin",
@@ -1505,7 +1505,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Oklahoma State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/nick-martin.png",
+    "photo": "src/assets/headshots-webp/nick-martin.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1526,7 +1526,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cbeyemtjdosfcdhpy1fx",
     "photoNflverseCached": "src/assets/headshots-optimized/nick-martin.png",
     "photoOriginal": "src/assets/headshots/nick-martin.jpg",
-    "photoDisplay": "src/assets/headshots-display/nick-martin.png"
+    "photoDisplay": "src/assets/headshots-webp/nick-martin.webp"
   },
   {
     "id": "adrian-martinez",
@@ -1539,7 +1539,7 @@ window.ROSTER_DATA = [
     "exp": "3",
     "college": "Kansas State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/adrian-martinez.png",
+    "photo": "src/assets/headshots-webp/adrian-martinez.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1560,7 +1560,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uxqlgiljk3wecurnynmg",
     "photoNflverseCached": "src/assets/headshots-optimized/adrian-martinez.png",
     "photoOriginal": "src/assets/headshots/adrian-martinez.jpg",
-    "photoDisplay": "src/assets/headshots-display/adrian-martinez.png"
+    "photoDisplay": "src/assets/headshots-webp/adrian-martinez.webp"
   },
   {
     "id": "christian-mccaffrey",
@@ -1573,7 +1573,7 @@ window.ROSTER_DATA = [
     "exp": "9",
     "college": "Stanford",
     "status": "Active",
-    "photo": "src/assets/headshots-display/christian-mccaffrey.png",
+    "photo": "src/assets/headshots-webp/christian-mccaffrey.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1594,7 +1594,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/resjdwihunsqckohcorj",
     "photoNflverseCached": "src/assets/headshots-optimized/christian-mccaffrey.png",
     "photoOriginal": "src/assets/headshots/christian-mccaffrey.jpg",
-    "photoDisplay": "src/assets/headshots-display/christian-mccaffrey.png"
+    "photoDisplay": "src/assets/headshots-webp/christian-mccaffrey.webp"
   },
   {
     "id": "sincere-mccormick",
@@ -1607,7 +1607,7 @@ window.ROSTER_DATA = [
     "exp": "4",
     "college": "Texas-San Antonio",
     "status": "Active",
-    "photo": "src/assets/headshots-display/sincere-mccormick.png",
+    "photo": "src/assets/headshots-webp/sincere-mccormick.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1628,7 +1628,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u2ynn4otkwexx4s4z24k",
     "photoNflverseCached": "src/assets/headshots-optimized/sincere-mccormick.png",
     "photoOriginal": "src/assets/headshots/sincere-mccormick.jpg",
-    "photoDisplay": "src/assets/headshots-display/sincere-mccormick.png"
+    "photoDisplay": "src/assets/headshots-webp/sincere-mccormick.webp"
   },
   {
     "id": "colton-mckivitz",
@@ -1641,7 +1641,7 @@ window.ROSTER_DATA = [
     "exp": "6",
     "college": "West Virginia",
     "status": "Active",
-    "photo": "src/assets/headshots-display/colton-mckivitz.png",
+    "photo": "src/assets/headshots-webp/colton-mckivitz.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1662,7 +1662,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ljxuxdusiz3j2raspwst",
     "photoNflverseCached": "src/assets/headshots-optimized/colton-mckivitz.png",
     "photoOriginal": "src/assets/headshots/colton-mckivitz.jpg",
-    "photoDisplay": "src/assets/headshots-display/colton-mckivitz.png"
+    "photoDisplay": "src/assets/headshots-webp/colton-mckivitz.webp"
   },
   {
     "id": "patrick-mcmorris",
@@ -1675,7 +1675,7 @@ window.ROSTER_DATA = [
     "exp": "2",
     "college": "California",
     "status": "Active",
-    "photo": "src/assets/headshots-display/patrick-mcmorris.png",
+    "photo": "src/assets/headshots-webp/patrick-mcmorris.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1696,7 +1696,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/e9mhvs0g9yq7t7ctwntp",
     "photoNflverseCached": "src/assets/headshots-optimized/patrick-mcmorris.png",
     "photoOriginal": "src/assets/headshots/patrick-mcmorris.jpg",
-    "photoDisplay": "src/assets/headshots-display/patrick-mcmorris.png"
+    "photoDisplay": "src/assets/headshots-webp/patrick-mcmorris.webp"
   },
   {
     "id": "malik-mustapha",
@@ -1709,7 +1709,7 @@ window.ROSTER_DATA = [
     "exp": "2",
     "college": "Wake Forest",
     "status": "Active",
-    "photo": "src/assets/headshots-display/malik-mustapha.png",
+    "photo": "src/assets/headshots-webp/malik-mustapha.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1730,7 +1730,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/de6mruukp9ydyppi9ah6",
     "photoNflverseCached": "src/assets/headshots-optimized/malik-mustapha.png",
     "photoOriginal": "src/assets/headshots/malik-mustapha.jpg",
-    "photoDisplay": "src/assets/headshots-display/malik-mustapha.png"
+    "photoDisplay": "src/assets/headshots-webp/malik-mustapha.webp"
   },
   {
     "id": "siran-neal",
@@ -1743,7 +1743,7 @@ window.ROSTER_DATA = [
     "exp": "8",
     "college": "Jacksonville State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/siran-neal.png",
+    "photo": "src/assets/headshots-webp/siran-neal.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1764,7 +1764,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/kq7kbeol3boyczqkm9jx",
     "photoNflverseCached": "src/assets/headshots-optimized/siran-neal.png",
     "photoOriginal": "src/assets/headshots/siran-neal.jpg",
-    "photoDisplay": "src/assets/headshots-display/siran-neal.png"
+    "photoDisplay": "src/assets/headshots-webp/siran-neal.webp"
   },
   {
     "id": "drake-nugent",
@@ -1777,7 +1777,7 @@ window.ROSTER_DATA = [
     "exp": "2",
     "college": "Michigan",
     "status": "Active",
-    "photo": "src/assets/headshots-display/drake-nugent.png",
+    "photo": "src/assets/headshots-webp/drake-nugent.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1798,7 +1798,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l0uqw19mggw4h7bmzuek",
     "photoNflverseCached": "src/assets/headshots-optimized/drake-nugent.png",
     "photoOriginal": "src/assets/headshots/drake-nugent.jpg",
-    "photoDisplay": "src/assets/headshots-display/drake-nugent.png"
+    "photoDisplay": "src/assets/headshots-webp/drake-nugent.webp"
   },
   {
     "id": "osa-odighizuwa",
@@ -1811,7 +1811,7 @@ window.ROSTER_DATA = [
     "exp": "5",
     "college": "UCLA",
     "status": "Active",
-    "photo": "src/assets/headshots-display/osa-odighizuwa.png",
+    "photo": "src/assets/headshots-webp/osa-odighizuwa.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1832,7 +1832,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xjx8vxlafv4i0hmvtrje",
     "photoNflverseCached": "src/assets/headshots-optimized/osa-odighizuwa.png",
     "photoOriginal": "src/assets/headshots/osa-odighizuwa.jpg",
-    "photoDisplay": "src/assets/headshots-display/osa-odighizuwa.png"
+    "photoDisplay": "src/assets/headshots-webp/osa-odighizuwa.webp"
   },
   {
     "id": "sam-okuayinonu",
@@ -1845,7 +1845,7 @@ window.ROSTER_DATA = [
     "exp": "4",
     "college": "Maryland",
     "status": "Active",
-    "photo": "src/assets/headshots-display/sam-okuayinonu.png",
+    "photo": "src/assets/headshots-webp/sam-okuayinonu.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1866,7 +1866,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bz3qx6p6ua5e7e5kuukk",
     "photoNflverseCached": "src/assets/headshots-optimized/sam-okuayinonu.png",
     "photoOriginal": "src/assets/headshots/sam-okuayinonu.jpg",
-    "photoDisplay": "src/assets/headshots-display/sam-okuayinonu.png"
+    "photoDisplay": "src/assets/headshots-webp/sam-okuayinonu.webp"
   },
   {
     "id": "brandon-parker",
@@ -1879,7 +1879,7 @@ window.ROSTER_DATA = [
     "exp": "8",
     "college": "North Carolina A&T",
     "status": "Active",
-    "photo": "src/assets/headshots-display/brandon-parker.png",
+    "photo": "src/assets/headshots-webp/brandon-parker.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1900,7 +1900,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/s3cp5zcmlnrolrof84aq",
     "photoNflverseCached": "src/assets/headshots-optimized/brandon-parker.png",
     "photoOriginal": "src/assets/headshots/brandon-parker.jpg",
-    "photoDisplay": "src/assets/headshots-display/brandon-parker.png"
+    "photoDisplay": "src/assets/headshots-webp/brandon-parker.webp"
   },
   {
     "id": "will-pauling",
@@ -1913,7 +1913,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Notre Dame",
     "status": "Active",
-    "photo": "src/assets/headshots-display/will-pauling.png",
+    "photo": "src/assets/headshots-webp/will-pauling.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1934,7 +1934,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/will-pauling.png",
     "photoOriginal": "src/assets/headshots/will-pauling.jpg",
-    "photoDisplay": "src/assets/headshots-display/will-pauling.png"
+    "photoDisplay": "src/assets/headshots-webp/will-pauling.webp"
   },
   {
     "id": "ricky-pearsall",
@@ -1947,7 +1947,7 @@ window.ROSTER_DATA = [
     "exp": "2",
     "college": "Florida",
     "status": "Active",
-    "photo": "src/assets/headshots-display/ricky-pearsall.png",
+    "photo": "src/assets/headshots-webp/ricky-pearsall.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -1968,7 +1968,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ko3lwlcfkxaykcspt4nw",
     "photoNflverseCached": "src/assets/headshots-optimized/ricky-pearsall.png",
     "photoOriginal": "src/assets/headshots/ricky-pearsall.jpg",
-    "photoDisplay": "src/assets/headshots-display/ricky-pearsall.png"
+    "photoDisplay": "src/assets/headshots-webp/ricky-pearsall.webp"
   },
   {
     "id": "eddy-pineiro",
@@ -1981,7 +1981,7 @@ window.ROSTER_DATA = [
     "exp": "8",
     "college": "Florida",
     "status": "Active",
-    "photo": "src/assets/headshots-display/eddy-pineiro.png",
+    "photo": "src/assets/headshots-webp/eddy-pineiro.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2002,7 +2002,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/l4rrfcuczjau7q02h2iz",
     "photoNflverseCached": "src/assets/headshots-optimized/eddy-pineiro.png",
     "photoOriginal": "src/assets/headshots/eddy-pineiro.jpg",
-    "photoDisplay": "src/assets/headshots-display/eddy-pineiro.png"
+    "photoDisplay": "src/assets/headshots-webp/eddy-pineiro.webp"
   },
   {
     "id": "austen-pleasants",
@@ -2015,7 +2015,7 @@ window.ROSTER_DATA = [
     "exp": "6",
     "college": "Ohio",
     "status": "Active",
-    "photo": "src/assets/headshots-display/austen-pleasants.png",
+    "photo": "src/assets/headshots-webp/austen-pleasants.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2036,7 +2036,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/qrc7z7ftin1tjdvhdd8q",
     "photoNflverseCached": "src/assets/headshots-optimized/austen-pleasants.png",
     "photoOriginal": "src/assets/headshots/austen-pleasants.jpg",
-    "photoDisplay": "src/assets/headshots-display/austen-pleasants.png"
+    "photoDisplay": "src/assets/headshots-webp/austen-pleasants.webp"
   },
   {
     "id": "ephesians-prysock",
@@ -2049,7 +2049,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Washington",
     "status": "Active",
-    "photo": "src/assets/headshots-display/ephesians-prysock.png",
+    "photo": "src/assets/headshots-webp/ephesians-prysock.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2070,7 +2070,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/ephesians-prysock.png",
     "photoOriginal": "src/assets/headshots/ephesians-prysock.jpg",
-    "photoDisplay": "src/assets/headshots-display/ephesians-prysock.png"
+    "photoDisplay": "src/assets/headshots-webp/ephesians-prysock.webp"
   },
   {
     "id": "dominick-puni",
@@ -2083,7 +2083,7 @@ window.ROSTER_DATA = [
     "exp": "2",
     "college": "Kansas",
     "status": "Active",
-    "photo": "src/assets/headshots-display/dominick-puni.png",
+    "photo": "src/assets/headshots-webp/dominick-puni.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2104,7 +2104,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ig3zuxuiem0nqnrytcls",
     "photoNflverseCached": "src/assets/headshots-optimized/dominick-puni.png",
     "photoOriginal": "src/assets/headshots/dominick-puni.jpg",
-    "photoDisplay": "src/assets/headshots-display/dominick-puni.png"
+    "photoDisplay": "src/assets/headshots-webp/dominick-puni.webp"
   },
   {
     "id": "brock-purdy",
@@ -2117,7 +2117,7 @@ window.ROSTER_DATA = [
     "exp": "4",
     "college": "Iowa State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/brock-purdy.png",
+    "photo": "src/assets/headshots-webp/brock-purdy.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2138,7 +2138,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xykdxnvxpf9pobxvkjfj",
     "photoNflverseCached": "src/assets/headshots-optimized/brock-purdy.png",
     "photoOriginal": "src/assets/headshots/brock-purdy.jpg",
-    "photoDisplay": "src/assets/headshots-display/brock-purdy.png"
+    "photoDisplay": "src/assets/headshots-webp/brock-purdy.webp"
   },
   {
     "id": "demarcus-robinson",
@@ -2151,7 +2151,7 @@ window.ROSTER_DATA = [
     "exp": "10",
     "college": "Florida",
     "status": "Active",
-    "photo": "src/assets/headshots-display/demarcus-robinson.png",
+    "photo": "src/assets/headshots-webp/demarcus-robinson.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2172,7 +2172,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/aynbxqjpwz1vhpxbxvv8",
     "photoNflverseCached": "src/assets/headshots-optimized/demarcus-robinson.png",
     "photoOriginal": "src/assets/headshots/demarcus-robinson.jpg",
-    "photoDisplay": "src/assets/headshots-display/demarcus-robinson.png"
+    "photoDisplay": "src/assets/headshots-webp/demarcus-robinson.webp"
   },
   {
     "id": "jakob-robinson",
@@ -2185,7 +2185,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "BYU",
     "status": "Active",
-    "photo": "src/assets/headshots-display/jakob-robinson.png",
+    "photo": "src/assets/headshots-webp/jakob-robinson.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2206,7 +2206,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zwkasqlulqxwyvpogbxa",
     "photoNflverseCached": "src/assets/headshots-optimized/jakob-robinson.png",
     "photoOriginal": "src/assets/headshots/jakob-robinson.jpg",
-    "photoDisplay": "src/assets/headshots-display/jakob-robinson.png"
+    "photoDisplay": "src/assets/headshots-webp/jakob-robinson.webp"
   },
   {
     "id": "kurtis-rourke",
@@ -2219,7 +2219,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Indiana",
     "status": "Active",
-    "photo": "src/assets/headshots-display/kurtis-rourke.png",
+    "photo": "src/assets/headshots-webp/kurtis-rourke.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2240,7 +2240,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/my8ws9pavzbxxfulajzd",
     "photoNflverseCached": "src/assets/headshots-optimized/kurtis-rourke.png",
     "photoOriginal": "src/assets/headshots/kurtis-rourke.jpg",
-    "photoDisplay": "src/assets/headshots-display/kurtis-rourke.png"
+    "photoDisplay": "src/assets/headshots-webp/kurtis-rourke.webp"
   },
   {
     "id": "hayden-rucci",
@@ -2253,7 +2253,7 @@ window.ROSTER_DATA = [
     "exp": "2",
     "college": "Wisconsin",
     "status": "Active",
-    "photo": "src/assets/headshots-display/hayden-rucci.png",
+    "photo": "src/assets/headshots-webp/hayden-rucci.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2274,7 +2274,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ditkdfxzbjpe6cqcv2ou",
     "photoNflverseCached": "src/assets/headshots-optimized/hayden-rucci.png",
     "photoOriginal": "src/assets/headshots/hayden-rucci.jpg",
-    "photoDisplay": "src/assets/headshots-display/hayden-rucci.png"
+    "photoDisplay": "src/assets/headshots-webp/hayden-rucci.webp"
   },
   {
     "id": "cameron-sample",
@@ -2287,7 +2287,7 @@ window.ROSTER_DATA = [
     "exp": "5",
     "college": "Tulane",
     "status": "Active",
-    "photo": "src/assets/headshots-display/cameron-sample.png",
+    "photo": "src/assets/headshots-webp/cameron-sample.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2308,7 +2308,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/kvkvhvbvcebjkevxjdhd",
     "photoNflverseCached": "src/assets/headshots-optimized/cameron-sample.png",
     "photoOriginal": "src/assets/headshots/cameron-sample.jpg",
-    "photoDisplay": "src/assets/headshots-display/cameron-sample.png"
+    "photoDisplay": "src/assets/headshots-webp/cameron-sample.webp"
   },
   {
     "id": "marques-sigle",
@@ -2321,7 +2321,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Kansas State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/marques-sigle.png",
+    "photo": "src/assets/headshots-webp/marques-sigle.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2342,7 +2342,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/njl59cs0r2vlnob8uz8k",
     "photoNflverseCached": "src/assets/headshots-optimized/marques-sigle.png",
     "photoOriginal": "src/assets/headshots/marques-sigle.jpg",
-    "photoDisplay": "src/assets/headshots-display/marques-sigle.png"
+    "photoDisplay": "src/assets/headshots-webp/marques-sigle.webp"
   },
   {
     "id": "upton-stout",
@@ -2355,7 +2355,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Western Kentucky",
     "status": "Active",
-    "photo": "src/assets/headshots-display/upton-stout.png",
+    "photo": "src/assets/headshots-webp/upton-stout.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2376,7 +2376,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/igyjtgzayft05v01yhuz",
     "photoNflverseCached": "src/assets/headshots-optimized/upton-stout.png",
     "photoOriginal": "src/assets/headshots/upton-stout.jpg",
-    "photoDisplay": "src/assets/headshots-display/upton-stout.png"
+    "photoDisplay": "src/assets/headshots-webp/upton-stout.webp"
   },
   {
     "id": "dezhaun-stribling",
@@ -2389,7 +2389,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Mississippi",
     "status": "Active",
-    "photo": "src/assets/headshots-display/dezhaun-stribling.png",
+    "photo": "src/assets/headshots-webp/dezhaun-stribling.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2410,7 +2410,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/dezhaun-stribling.png",
     "photoOriginal": "src/assets/headshots/dezhaun-stribling.jpg",
-    "photoDisplay": "src/assets/headshots-display/dezhaun-stribling.png"
+    "photoDisplay": "src/assets/headshots-webp/dezhaun-stribling.webp"
   },
   {
     "id": "jalen-stroman",
@@ -2423,7 +2423,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Notre Dame",
     "status": "Active",
-    "photo": "src/assets/headshots-display/jalen-stroman.png",
+    "photo": "src/assets/headshots-webp/jalen-stroman.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2444,7 +2444,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/jalen-stroman.png",
     "photoOriginal": "src/assets/headshots/jalen-stroman.jpg",
-    "photoDisplay": "src/assets/headshots-display/jalen-stroman.png"
+    "photoDisplay": "src/assets/headshots-webp/jalen-stroman.webp"
   },
   {
     "id": "patrick-taylor-jr",
@@ -2457,7 +2457,7 @@ window.ROSTER_DATA = [
     "exp": "6",
     "college": "Memphis",
     "status": "Active",
-    "photo": "src/assets/headshots-display/patrick-taylor-jr.png",
+    "photo": "src/assets/headshots-webp/patrick-taylor-jr.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2478,7 +2478,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/nd1utxii5exwfoujq5a4",
     "photoNflverseCached": "src/assets/headshots-optimized/patrick-taylor-jr.png",
     "photoOriginal": "src/assets/headshots/patrick-taylor-jr.jpg",
-    "photoDisplay": "src/assets/headshots-display/patrick-taylor-jr.png"
+    "photoDisplay": "src/assets/headshots-webp/patrick-taylor-jr.webp"
   },
   {
     "id": "zachary-thomas",
@@ -2491,7 +2491,7 @@ window.ROSTER_DATA = [
     "exp": "4",
     "college": "San Diego State",
     "status": "Active",
-    "photo": "src/assets/headshots-display/zachary-thomas.png",
+    "photo": "src/assets/headshots-webp/zachary-thomas.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2512,7 +2512,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/xavwevdxxjoneavs1mxl",
     "photoNflverseCached": "src/assets/headshots-optimized/zachary-thomas.png",
     "photoOriginal": "src/assets/headshots/zachary-thomas.jpg",
-    "photoDisplay": "src/assets/headshots-display/zachary-thomas.png"
+    "photoDisplay": "src/assets/headshots-webp/zachary-thomas.webp"
   },
   {
     "id": "james-thompson-jr",
@@ -2525,7 +2525,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Illinois",
     "status": "Active",
-    "photo": "src/assets/headshots-display/james-thompson-jr.png",
+    "photo": "src/assets/headshots-webp/james-thompson-jr.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2546,7 +2546,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/james-thompson-jr.png",
     "photoOriginal": "src/assets/headshots/james-thompson-jr.jpg",
-    "photoDisplay": "src/assets/headshots-display/james-thompson-jr.png"
+    "photoDisplay": "src/assets/headshots-webp/james-thompson-jr.webp"
   },
   {
     "id": "tre-tomlinson",
@@ -2559,13 +2559,13 @@ window.ROSTER_DATA = [
     "exp": "3",
     "college": "TCU",
     "status": "Active",
-    "photo": "src/assets/headshots-display/tre-tomlinson.png",
+    "photo": "src/assets/headshots-webp/tre-tomlinson.webp",
     "source": "49ers.com",
     "photoRemote": "https://static.clubs.nfl.com/image/upload/t_thumb_squared_3x/f_png/49ers/u4d4zh9gpqn2vwizdsj9.png",
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/tre-tomlinson.png",
     "photoOriginal": "src/assets/headshots/tre-tomlinson.png",
-    "photoDisplay": "src/assets/headshots-display/tre-tomlinson.png"
+    "photoDisplay": "src/assets/headshots-webp/tre-tomlinson.webp"
   },
   {
     "id": "jake-tonges",
@@ -2578,7 +2578,7 @@ window.ROSTER_DATA = [
     "exp": "4",
     "college": "California",
     "status": "Active",
-    "photo": "src/assets/headshots-display/jake-tonges.png",
+    "photo": "src/assets/headshots-webp/jake-tonges.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2599,7 +2599,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/uztcdowl4wig2uhy1qxh",
     "photoNflverseCached": "src/assets/headshots-optimized/jake-tonges.png",
     "photoOriginal": "src/assets/headshots/jake-tonges.jpg",
-    "photoDisplay": "src/assets/headshots-display/jake-tonges.png"
+    "photoDisplay": "src/assets/headshots-webp/jake-tonges.webp"
   },
   {
     "id": "brett-toth",
@@ -2612,7 +2612,7 @@ window.ROSTER_DATA = [
     "exp": "7",
     "college": "Army",
     "status": "Active",
-    "photo": "src/assets/headshots-display/brett-toth.png",
+    "photo": "src/assets/headshots-webp/brett-toth.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2633,7 +2633,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/zizzehbd7dm27rhfeu0d",
     "photoNflverseCached": "src/assets/headshots-optimized/brett-toth.png",
     "photoOriginal": "src/assets/headshots/brett-toth.jpg",
-    "photoDisplay": "src/assets/headshots-display/brett-toth.png"
+    "photoDisplay": "src/assets/headshots-webp/brett-toth.webp"
   },
   {
     "id": "malik-turner",
@@ -2646,7 +2646,7 @@ window.ROSTER_DATA = [
     "exp": "8",
     "college": "Illinois",
     "status": "Active",
-    "photo": "src/assets/headshots-display/malik-turner.png",
+    "photo": "src/assets/headshots-webp/malik-turner.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2667,7 +2667,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/private/f_auto,q_auto/league/r7wv14bgrb5ohjmqsf9p",
     "photoNflverseCached": "src/assets/headshots-optimized/malik-turner.png",
     "photoOriginal": "src/assets/headshots/malik-turner.jpg",
-    "photoDisplay": "src/assets/headshots-display/malik-turner.png"
+    "photoDisplay": "src/assets/headshots-webp/malik-turner.webp"
   },
   {
     "id": "sebastian-valdez",
@@ -2680,7 +2680,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Washington",
     "status": "Active",
-    "photo": "src/assets/headshots-display/sebastian-valdez.png",
+    "photo": "src/assets/headshots-webp/sebastian-valdez.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2701,7 +2701,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cnb82o0pkp0k2ng5mrrp",
     "photoNflverseCached": "src/assets/headshots-optimized/sebastian-valdez.png",
     "photoOriginal": "src/assets/headshots/sebastian-valdez.jpg",
-    "photoDisplay": "src/assets/headshots-display/sebastian-valdez.png"
+    "photoDisplay": "src/assets/headshots-webp/sebastian-valdez.webp"
   },
   {
     "id": "corliss-waitman",
@@ -2714,7 +2714,7 @@ window.ROSTER_DATA = [
     "exp": "6",
     "college": "South Alabama",
     "status": "Active",
-    "photo": "src/assets/headshots-display/corliss-waitman.png",
+    "photo": "src/assets/headshots-webp/corliss-waitman.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2735,7 +2735,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ob1q154g57ksxc5iskbw",
     "photoNflverseCached": "src/assets/headshots-optimized/corliss-waitman.png",
     "photoOriginal": "src/assets/headshots/corliss-waitman.jpg",
-    "photoDisplay": "src/assets/headshots-display/corliss-waitman.png"
+    "photoDisplay": "src/assets/headshots-webp/corliss-waitman.webp"
   },
   {
     "id": "garret-wallow",
@@ -2748,7 +2748,7 @@ window.ROSTER_DATA = [
     "exp": "5",
     "college": "TCU",
     "status": "Active",
-    "photo": "src/assets/headshots-display/garret-wallow.png",
+    "photo": "src/assets/headshots-webp/garret-wallow.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2769,7 +2769,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/jf7xnestp0wmq0lbezxs",
     "photoNflverseCached": "src/assets/headshots-optimized/garret-wallow.png",
     "photoOriginal": "src/assets/headshots/garret-wallow.jpg",
-    "photoDisplay": "src/assets/headshots-display/garret-wallow.png"
+    "photoDisplay": "src/assets/headshots-webp/garret-wallow.webp"
   },
   {
     "id": "fred-warner",
@@ -2782,7 +2782,7 @@ window.ROSTER_DATA = [
     "exp": "8",
     "college": "Brigham Young",
     "status": "Active",
-    "photo": "src/assets/headshots-display/fred-warner.png",
+    "photo": "src/assets/headshots-webp/fred-warner.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2803,7 +2803,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/u3en19iyyfc64d3vprh6",
     "photoNflverseCached": "src/assets/headshots-optimized/fred-warner.png",
     "photoOriginal": "src/assets/headshots/fred-warner.jpg",
-    "photoDisplay": "src/assets/headshots-display/fred-warner.png"
+    "photoDisplay": "src/assets/headshots-webp/fred-warner.webp"
   },
   {
     "id": "jordan-watkins",
@@ -2816,7 +2816,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Mississippi",
     "status": "Active",
-    "photo": "src/assets/headshots-display/jordan-watkins.png",
+    "photo": "src/assets/headshots-webp/jordan-watkins.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2837,7 +2837,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/cdwpo3lveebc92rzcdas",
     "photoNflverseCached": "src/assets/headshots-optimized/jordan-watkins.png",
     "photoOriginal": "src/assets/headshots/jordan-watkins.jpg",
-    "photoDisplay": "src/assets/headshots-display/jordan-watkins.png"
+    "photoDisplay": "src/assets/headshots-webp/jordan-watkins.webp"
   },
   {
     "id": "jon-weeks",
@@ -2850,7 +2850,7 @@ window.ROSTER_DATA = [
     "exp": "16",
     "college": "Baylor",
     "status": "Active",
-    "photo": "src/assets/headshots-display/jon-weeks.png",
+    "photo": "src/assets/headshots-webp/jon-weeks.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2871,7 +2871,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/efqsxmef1aoqnw6co1au",
     "photoNflverseCached": "src/assets/headshots-optimized/jon-weeks.png",
     "photoOriginal": "src/assets/headshots/jon-weeks.jpg",
-    "photoDisplay": "src/assets/headshots-display/jon-weeks.png"
+    "photoDisplay": "src/assets/headshots-webp/jon-weeks.webp"
   },
   {
     "id": "c-j-west",
@@ -2884,7 +2884,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Indiana",
     "status": "Active",
-    "photo": "src/assets/headshots-display/c-j-west.png",
+    "photo": "src/assets/headshots-webp/c-j-west.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2905,7 +2905,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/bhqq8ebh20hehf1em9zz",
     "photoNflverseCached": "src/assets/headshots-optimized/c-j-west.png",
     "photoOriginal": "src/assets/headshots/c-j-west.jpg",
-    "photoDisplay": "src/assets/headshots-display/c-j-west.png"
+    "photoDisplay": "src/assets/headshots-webp/c-j-west.webp"
   },
   {
     "id": "keion-white",
@@ -2918,7 +2918,7 @@ window.ROSTER_DATA = [
     "exp": "3",
     "college": "Georgia Tech",
     "status": "Active",
-    "photo": "src/assets/headshots-display/keion-white.png",
+    "photo": "src/assets/headshots-webp/keion-white.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2939,7 +2939,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/wkq3kmgtrqxsndffclam",
     "photoNflverseCached": "src/assets/headshots-optimized/keion-white.png",
     "photoOriginal": "src/assets/headshots/keion-white.jpg",
-    "photoDisplay": "src/assets/headshots-display/keion-white.png"
+    "photoDisplay": "src/assets/headshots-webp/keion-white.webp"
   },
   {
     "id": "mykel-williams",
@@ -2952,7 +2952,7 @@ window.ROSTER_DATA = [
     "exp": "1",
     "college": "Georgia",
     "status": "Active",
-    "photo": "src/assets/headshots-display/mykel-williams.png",
+    "photo": "src/assets/headshots-webp/mykel-williams.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -2973,7 +2973,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/glewua5vtcbfvbm6j8s3",
     "photoNflverseCached": "src/assets/headshots-optimized/mykel-williams.png",
     "photoOriginal": "src/assets/headshots/mykel-williams.jpg",
-    "photoDisplay": "src/assets/headshots-display/mykel-williams.png"
+    "photoDisplay": "src/assets/headshots-webp/mykel-williams.webp"
   },
   {
     "id": "trent-williams",
@@ -2986,7 +2986,7 @@ window.ROSTER_DATA = [
     "exp": "16",
     "college": "Oklahoma",
     "status": "Active",
-    "photo": "src/assets/headshots-display/trent-williams.png",
+    "photo": "src/assets/headshots-webp/trent-williams.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -3007,7 +3007,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/z3rgsbkzy0sripzunidx",
     "photoNflverseCached": "src/assets/headshots-optimized/trent-williams.png",
     "photoOriginal": "src/assets/headshots/trent-williams.jpg",
-    "photoDisplay": "src/assets/headshots-display/trent-williams.png"
+    "photoDisplay": "src/assets/headshots-webp/trent-williams.webp"
   },
   {
     "id": "brayden-willis",
@@ -3020,7 +3020,7 @@ window.ROSTER_DATA = [
     "exp": "3",
     "college": "Oklahoma",
     "status": "Active",
-    "photo": "src/assets/headshots-display/brayden-willis.png",
+    "photo": "src/assets/headshots-webp/brayden-willis.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -3041,7 +3041,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/pz1nzzfellquco7nk65e",
     "photoNflverseCached": "src/assets/headshots-optimized/brayden-willis.png",
     "photoOriginal": "src/assets/headshots/brayden-willis.jpg",
-    "photoDisplay": "src/assets/headshots-display/brayden-willis.png"
+    "photoDisplay": "src/assets/headshots-webp/brayden-willis.webp"
   },
   {
     "id": "carver-willis",
@@ -3054,7 +3054,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Washington",
     "status": "Active",
-    "photo": "src/assets/headshots-display/carver-willis.png",
+    "photo": "src/assets/headshots-webp/carver-willis.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -3075,7 +3075,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/carver-willis.png",
     "photoOriginal": "src/assets/headshots/carver-willis.jpg",
-    "photoDisplay": "src/assets/headshots-display/carver-willis.png"
+    "photoDisplay": "src/assets/headshots-webp/carver-willis.webp"
   },
   {
     "id": "larry-worth-iii",
@@ -3088,7 +3088,7 @@ window.ROSTER_DATA = [
     "exp": "0",
     "college": "Arkansas",
     "status": "Active",
-    "photo": "src/assets/headshots-display/larry-worth-iii.png",
+    "photo": "src/assets/headshots-webp/larry-worth-iii.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -3109,7 +3109,7 @@ window.ROSTER_DATA = [
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/larry-worth-iii.png",
     "photoOriginal": "src/assets/headshots/larry-worth-iii.jpg",
-    "photoDisplay": "src/assets/headshots-display/larry-worth-iii.png"
+    "photoDisplay": "src/assets/headshots-webp/larry-worth-iii.webp"
   },
   {
     "id": "nick-zakelj",
@@ -3122,7 +3122,7 @@ window.ROSTER_DATA = [
     "exp": "4",
     "college": "Fordham",
     "status": "Active",
-    "photo": "src/assets/headshots-display/nick-zakelj.png",
+    "photo": "src/assets/headshots-webp/nick-zakelj.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -3143,7 +3143,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/ef2vqxfsntkcn8butiei",
     "photoNflverseCached": "src/assets/headshots-optimized/nick-zakelj.png",
     "photoOriginal": "src/assets/headshots/nick-zakelj.jpg",
-    "photoDisplay": "src/assets/headshots-display/nick-zakelj.png"
+    "photoDisplay": "src/assets/headshots-webp/nick-zakelj.webp"
   },
   {
     "id": "darrick-forrest",
@@ -3156,7 +3156,7 @@ window.ROSTER_DATA = [
     "exp": "5",
     "college": "Cincinnati",
     "status": "Reserve/Injured",
-    "photo": "src/assets/headshots-display/darrick-forrest.png",
+    "photo": "src/assets/headshots-webp/darrick-forrest.webp",
     "source": "49ers.com",
     "nflverse": {
       "season": "2026",
@@ -3177,7 +3177,7 @@ window.ROSTER_DATA = [
     "photoRemote": "https://static.www.nfl.com/image/upload/f_auto,q_auto/league/t1k57hvbictnyjh65ygx",
     "photoNflverseCached": "src/assets/headshots-optimized/darrick-forrest.png",
     "photoOriginal": "src/assets/headshots/darrick-forrest.jpg",
-    "photoDisplay": "src/assets/headshots-display/darrick-forrest.png"
+    "photoDisplay": "src/assets/headshots-webp/darrick-forrest.webp"
   },
   {
     "id": "brandon-aiyuk",
@@ -3190,13 +3190,13 @@ window.ROSTER_DATA = [
     "exp": "6",
     "college": "Arizona State",
     "status": "Reserve/Left Squad",
-    "photo": "src/assets/headshots-display/brandon-aiyuk.png",
+    "photo": "src/assets/headshots-webp/brandon-aiyuk.webp",
     "source": "49ers.com",
     "photoRemote": "https://static.clubs.nfl.com/image/upload/t_thumb_squared_3x/f_png/49ers/zpr9snrc7lmyx6bjklni.png",
     "photoSource": "NFLVerse / NFL.com high-quality local cutout",
     "photoNflverseCached": "src/assets/headshots-optimized/brandon-aiyuk.png",
     "photoOriginal": "src/assets/headshots/brandon-aiyuk.png",
-    "photoDisplay": "src/assets/headshots-display/brandon-aiyuk.png"
+    "photoDisplay": "src/assets/headshots-webp/brandon-aiyuk.webp"
   }
 ];
 window.ROSTER_DATA_VERSION = "49ers-hq-cutouts-2026-07-01";
