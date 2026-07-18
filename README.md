@@ -14,6 +14,9 @@ The presentation views are designed for StreamYard screen sharing.
 
 ## Broadcast Design
 
+- The control room uses a three-zone production workflow: formation, live canvas, and player inspector.
+- Keyboard arrows nudge the selected broadcast card; Command/Ctrl + K focuses roster search.
+- The roster library supports position, status, and live name filtering without leaving the canvas.
 - Presentation views render on a fixed 16:9 canvas and scale to the available window.
 - The photographic turf is generated specifically for this project; yard numbers, player graphics, and the team mark remain separate editable layers.
 - Formation-aware positioning keeps all 11 player plaques readable on offense and defense.

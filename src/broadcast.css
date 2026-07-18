@@ -23,8 +23,8 @@ body.presentation-mode #root {
   overflow: hidden;
   isolation: isolate;
   color: #fff;
-  background: #050706;
-  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  background: #050505;
+  font-family: "DM Sans", ui-sans-serif, system-ui, sans-serif;
 }
 
 body.presentation-mode .presentation {
@@ -43,8 +43,10 @@ body.presentation-mode .presentation {
   z-index: 0;
   inset: 0;
   background:
-    radial-gradient(ellipse at 50% -16%, rgba(255, 255, 255, .2), transparent 31%),
-    linear-gradient(180deg, #2a3031 0%, #101415 15%, #040606 38%, #020303 100%);
+    radial-gradient(ellipse at 50% -12%, rgba(244, 226, 175, .2), transparent 28%),
+    radial-gradient(ellipse at 12% 8%, rgba(198, 21, 29, .13), transparent 28%),
+    radial-gradient(ellipse at 88% 8%, rgba(198, 21, 29, .1), transparent 28%),
+    linear-gradient(180deg, #292a2b 0%, #121314 17%, #050606 38%, #020303 100%);
 }
 
 .stadium::before {
@@ -54,7 +56,16 @@ body.presentation-mode .presentation {
   background:
     linear-gradient(112deg, transparent 0 13%, rgba(235, 239, 230, .07) 24%, transparent 38%),
     linear-gradient(248deg, transparent 0 13%, rgba(235, 239, 230, .07) 24%, transparent 38%);
-  opacity: .85;
+  opacity: .75;
+}
+
+.stadium-glow {
+  position: absolute;
+  inset: 0;
+  background:
+    repeating-linear-gradient(90deg, transparent 0 6.1%, rgba(255,255,255,.025) 6.2% 6.35%, transparent 6.45% 8%),
+    linear-gradient(180deg, transparent 0 28%, rgba(255,255,255,.025) 28.2%, transparent 29%);
+  mask-image: linear-gradient(#000, transparent 52%);
 }
 
 .stadium::after,
@@ -65,19 +76,19 @@ body.presentation-mode .presentation {
 .broadcast-bar {
   position: absolute;
   z-index: 80;
-  top: 2.4cqw;
+  top: 2.15cqw;
   left: 3.5cqw;
   right: 3.5cqw;
-  min-height: 5.6cqw;
+  min-height: 6cqw;
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
   align-items: center;
   gap: 2cqw;
   padding: .7cqw 1.25cqw;
   border: 1px solid rgba(255, 255, 255, .16);
-  border-bottom: .16cqw solid #9e121a;
-  border-radius: .26cqw;
-  background: linear-gradient(180deg, rgba(52, 57, 59, .98), rgba(17, 20, 21, .98) 58%, rgba(7, 9, 10, .99));
+  border-bottom: .18cqw solid #d51b23;
+  border-radius: .34cqw;
+  background: linear-gradient(115deg, rgba(45, 46, 47, .99), rgba(14, 15, 16, .99) 48%, rgba(7, 8, 9, .99));
   box-shadow:
     0 1.2cqw 2.3cqw rgba(0, 0, 0, .56),
     inset 0 1px 0 rgba(255, 255, 255, .18);
@@ -102,7 +113,7 @@ body.presentation-mode .presentation {
 .broadcast-title span {
   display: block;
   margin: 0 0 .25cqw;
-  color: #c8b36f;
+  color: #d8c684;
   font-size: .56cqw;
   line-height: 1;
   font-weight: 800;
@@ -114,8 +125,8 @@ body.presentation-mode .presentation {
 .broadcast-title h2 {
   margin: 0;
   color: #f7f5ed;
-  font-family: "Arial Narrow", "Roboto Condensed", Impact, sans-serif;
-  font-size: 1.72cqw;
+  font-family: "Roboto Condensed", "Arial Narrow", Impact, sans-serif;
+  font-size: 1.78cqw;
   font-stretch: condensed;
   font-weight: 900;
   line-height: .95;
@@ -129,14 +140,24 @@ body.presentation-mode .presentation {
 }
 
 .broadcast-title h2 {
-  color: #ded5b5;
-  font-size: 1.35cqw;
+  color: #fff;
+  font-size: 1.5cqw;
+}
+
+.broadcast-title small {
+  display: block;
+  margin-top: .27cqw;
+  color: rgba(255,255,255,.5);
+  font-size: .46cqw;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
 }
 
 .sf-mark {
   position: relative;
   z-index: 2;
-  width: 5.7cqw;
+  width: 6.1cqw;
   max-width: none;
   filter: drop-shadow(0 .6cqw .6cqw rgba(0, 0, 0, .65));
 }
@@ -146,13 +167,13 @@ body.presentation-mode .presentation {
   z-index: 10;
   left: 2cqw;
   right: 2cqw;
-  top: 9.15cqw;
-  bottom: 0;
+  top: 9.2cqw;
+  bottom: 1.65cqw;
   height: auto;
   overflow: hidden;
   border: 0;
   border-radius: 0;
-  background: #1a3219 url("assets/field/cinematic-turf-v1.webp") center / cover no-repeat;
+  background: #142c15 url("assets/field/cinematic-turf-v1.webp") center / cover no-repeat;
   box-shadow:
     inset 0 .2cqw 0 rgba(255, 255, 255, .09),
     0 -1.2cqw 3.5cqw rgba(0, 0, 0, .45);
@@ -166,7 +187,9 @@ body.presentation-mode .presentation {
   z-index: 1;
   inset: 0;
   pointer-events: none;
-  background: linear-gradient(90deg, rgba(0, 0, 0, .3), transparent 10%, transparent 90%, rgba(0, 0, 0, .3));
+  background:
+    linear-gradient(90deg, rgba(0, 0, 0, .34), transparent 11%, transparent 89%, rgba(0, 0, 0, .34)),
+    linear-gradient(180deg, rgba(242,235,210,.035), transparent 35%);
 }
 
 .field::after {
@@ -185,7 +208,19 @@ body.presentation-mode .presentation {
   z-index: 2;
   inset: 0;
   pointer-events: none;
-  background: radial-gradient(ellipse at 50% 38%, rgba(234, 239, 222, .09), transparent 54%);
+  background:
+    radial-gradient(ellipse at 50% 35%, rgba(234, 239, 222, .12), transparent 53%),
+    linear-gradient(100deg, transparent 20%, rgba(255,255,255,.025) 38%, transparent 54%);
+}
+
+.field-grain {
+  position: absolute;
+  z-index: 3;
+  inset: 0;
+  pointer-events: none;
+  opacity: .24;
+  background-image: repeating-linear-gradient(0deg, transparent 0 2px, rgba(255,255,255,.018) 2px 3px);
+  mix-blend-mode: overlay;
 }
 
 .fog-layer,
@@ -265,7 +300,7 @@ body.presentation-mode .presentation {
 
 .card-position {
   position: absolute;
-  width: 11.8cqw;
+  width: 11.9cqw;
   transform: translate(-50%, -50%);
   will-change: opacity, transform;
 }
@@ -365,9 +400,9 @@ body.presentation-mode .presentation {
   padding: .48cqw .65cqw .5cqw;
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, .16);
-  border-bottom: .16cqw solid #a7141c;
-  border-radius: .18cqw;
-  background: linear-gradient(180deg, rgba(43, 47, 48, .98), rgba(13, 15, 16, .99) 64%, rgba(6, 7, 8, .99));
+  border-bottom: .17cqw solid #d51b23;
+  border-radius: .24cqw;
+  background: linear-gradient(120deg, rgba(49, 50, 51, .98), rgba(15, 16, 17, .99) 57%, rgba(5, 6, 7, .99));
   box-shadow:
     0 .58cqw .8cqw rgba(0, 0, 0, .54),
     inset 0 1px 0 rgba(255, 255, 255, .14);
@@ -408,10 +443,10 @@ body.presentation-mode .presentation {
   min-width: 1.55cqw;
   height: .92cqw;
   padding: 0 .25cqw;
-  border: 1px solid rgba(223, 206, 148, .62);
-  border-radius: .12cqw;
-  color: #111;
-  background: #c9b46f;
+  border: 1px solid rgba(240, 220, 154, .72);
+  border-radius: 50%;
+  color: #18150d;
+  background: linear-gradient(180deg, #ead78e, #bca55f);
   box-shadow: none;
   font-size: .52cqw;
   font-weight: 900;
@@ -424,7 +459,7 @@ body.presentation-mode .presentation {
   margin: 0 0 .24cqw;
   overflow: hidden;
   color: #fff;
-  font-family: "Arial Narrow", "Roboto Condensed", Impact, sans-serif;
+  font-family: "Roboto Condensed", "Arial Narrow", Impact, sans-serif;
   font-size: .83cqw;
   font-stretch: condensed;
   font-weight: 900;
@@ -486,6 +521,28 @@ body.presentation-mode .presentation {
   background: rgba(18, 21, 22, .94);
   opacity: 1;
 }
+
+.broadcast-footer {
+  position: absolute;
+  z-index: 90;
+  left: 2cqw;
+  right: 2cqw;
+  bottom: 0;
+  height: 1.65cqw;
+  display: flex;
+  align-items: center;
+  gap: .55cqw;
+  padding: 0 .75cqw;
+  color: rgba(255,255,255,.5);
+  background: linear-gradient(90deg, #1a1b1c, #0a0b0c 55%, #18191a);
+  font-size: .43cqw;
+  font-weight: 800;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+.broadcast-footer i { width: 2.4cqw; height: 1px; background: linear-gradient(90deg, #d21a22, transparent); }
+.broadcast-footer b { margin-left: auto; color: #d6c27d; font-family: "Roboto Condensed", sans-serif; font-size: .58cqw; }
 
 .presentation-mode .broadcast-bar {
   animation: header-reveal 560ms cubic-bezier(.2, .8, .2, 1) both;
